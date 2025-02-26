@@ -5,14 +5,8 @@
 
 ## Marks
 
-+ Q1 Subtotal: 9.5/10
++ Q1: 9.5/10
 
-+ Q2 Subtotal: 14.6/15
++ Q2: 14.6/15
 
 + Q3: 25/25
-
-## Notes
-
-+ **The arithmetic operations are not implemented in Q3**
-
-+ **Coding conventions in Q3 is very terrible, but avoiding plagiarism partly**
