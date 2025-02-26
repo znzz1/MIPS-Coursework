@@ -1,6 +1,6 @@
 ## Apps to run the code
 + [Mars4_5](https://courses.missouristate.edu/kenvollmar/mars/download.htm) (Recommended)
-+ [QtSpim](http://spimsimulator.sourceforge.net/) (Ofiicial)
++ [QtSpim](http://spimsimulator.sourceforge.net/) (Official)
 
 
 ## Marks
